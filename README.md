@@ -18,9 +18,9 @@ I program in HTML, CSS, JavaScript, and Java... and I'm becoming friends with My
 My superpower: finding errors where there aren't any, and then fixing them as if nothing happened 😇
 
 There are no filters here, just a passion for development. And yes, sometimes my code works and I don't even know how 😳⚙️
-</p>
+</p><br>
 <hr>
-<picture> <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
 
 🛠 &nbsp;⚙️ Things I do know how to use (sometimes) <br>
 
@@ -38,4 +38,12 @@ There are no filters here, just a passion for development. And yes, sometimes my
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+🛠 &nbsp; 🧙‍♂️ Outside of the code I also have a presence <br>
+
+<a href="https://web.facebook.com/profile.php?id=100024428942245">
+<img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+</a>
+<a href="https://www.instagram.com/jonier_rendon/">
+<img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 
