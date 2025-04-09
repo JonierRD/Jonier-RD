@@ -4,7 +4,7 @@
 <h1 align="center">
 
 [Epic background music] 🎬... <br>
-18-year-old Jonier Rendón appears. His mission: master the code, survive the bugs... and welcome visitors like you. 😎🔥<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+Jonier Rendón appears. His mission: master the code, survive the bugs... and welcome visitors like you. 😎🔥<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" />
