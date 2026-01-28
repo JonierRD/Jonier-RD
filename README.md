@@ -11,7 +11,7 @@ Jonier Rendón appears. His mission: master the code, survive the bugs... and we
 
 About me <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture>
 <p>
-Systems Engineering student at ITP (Instituto Tecnologico del Putumayo). I'm 18 years old, have a trusty laptop (sort of), and a huge desire to make magic with code 🧙‍♂️💻
+Systems Engineering student at UTP (University Tecnologic of Putumayo). I'm 18 years old, have a trusty laptop (sort of), and a huge desire to make magic with code 🧙‍♂️💻
 
 I program in HTML, CSS, JavaScript, and Java... and I'm becoming friends with MySQL (although sometimes it doesn't respond to my messages 😅📬).
 
