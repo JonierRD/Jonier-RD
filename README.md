@@ -41,7 +41,7 @@ There are no filters here, just a passion for development. And yes, sometimes my
 
 🛠 &nbsp; 🧙‍♂️ Outside of the code I also have a presence <br>
 
-<a href="https://web.facebook.com/profile.php?id=100024428942245">
+<a href="https://www.facebook.com/share/14TJHpDaG95/">
 <img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
 <a href="https://www.instagram.com/jonier_rendon/">
